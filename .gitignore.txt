@@ -1,0 +1,5 @@
+# Ignore files with extension `.class` & `.sm`
+*.exe
+*.o
+# Ignore all `library.jar` in `bin` dir
+*/bin/library.jar
